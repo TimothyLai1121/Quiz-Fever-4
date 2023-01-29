@@ -73,6 +73,7 @@ const questions = [
     }   
 ];
 
+// getElementById //
 
 var timer = document.getElementById("timer");
 var timeLeft = document.getElementById("timeLeft");
@@ -108,6 +109,7 @@ var scoreResult;
 var questionIndex = 0;
 
 /* Adding timer */
+
 var totalTime = 181;
 function newQuiz() {
     questionIndex = 0;
@@ -285,5 +287,7 @@ goBackBtn.addEventListener("click", function() {
 clearHighScoreBtn.addEventListener("click", function(){
     window.localStorage.removeItem("high scores");
     listOfHighScores.innerHTML = "High Scores Cleared!";
-    listOfHighScores.setAttribute("style", "font-family: 'Archivo', sans-serif; font-style: italic;")
+    listOfHighScores.setAttribute("style", "font-family: 'Times Roman', serif; font-style: italic;");
+
 });
+
