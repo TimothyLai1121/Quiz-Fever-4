@@ -8,84 +8,69 @@
 //      answer: 
 //      },
 //    ]
-// 15 Questions // 
+// 10 Questions // 
 
 const questions = [
     {
+        // Question 1 //
         question: "Which one does not belong to Brake Pads Combo?",
         choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
         answer: "D. Brake Caliper Tools"
+    },
+    {   
+        // Question 2 //
+        question: "Which one does not belong to Oil Filter Combo?",
+        choices: ["A. Oil Filter Wrench", "B. Air Filter", "C. Fuel Filter", "D. Oil Drain Plugs"],
+        answer: "D. Oil Drain Plugs"
+    },
+    {   
+        // Question 3 //
+        question: "Which one does not belong to Air Filter Combo?",
+        choices: ["A. Transmission Filter", "B. Oil Filter", "C. Cabin Air Filter", "D. Fuel Filter"],
+        answer: "A. Transmission Filter"
+    },
+    {   
+        // Question 4 //
+        question: "Which one does not belong to A/C Compressor Combo?",
+        choices: ["A. A/C Accumulator", "B. A/C Drive Belt", "C. A/C Freons", "D. A/C Filter Drier"],
+        answer: "C. A/C Freons"
+    },
+    {   
+        // Question 5 //
+        question: "Which one does not belong to Wiper Blades Combo?",
+        choices: ["A. Rear Wiper Blade", "B. Windshield Washer Fluid", "C. De-Icer Fluids", "D. Rain-X Fogs Remover"],
+        answer: "D. Rain-X Fogs Remover"
+    },
+    {   
+        // Question 6 //
+        question: "Which one does not belong to Brake Calipers Combo?",
+        choices: ["A. Brake Pads", "B. Brake Hardware", "C. Wheel Cylinder", "D. Brake Fluid"],
+        answer: "D. Brake Fluid"
+    },
+    {   
+        // Question 7 //
+        question: "Which one does not belong to Radiator Combo?",
+        choices: ["A. AntiFreezes", "B. Radiator Cap", "C. Coolant Recovery Tank", "D. Thermostats"],
+        answer: "C. Coolant Recovery Tank"
     },
     {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
+        // Question 8 //
+        question: "Which one does not belong to Spark Plugs Combo?",
+        choices: ["A. Ignition Coils", "B. Wireset", "C. Distributor Caps", "D. Distributor Rotors"],
+        answer: "A. Ignition Coils"
     },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
+    {   
+        // Question 9 //
+        question: "What is the most missed opportunities on WittDtjr ScoreBoard?",
+        choices: ["A. Oil Filters", "B. Batteries", "C. Wiper Blades", "D. Radiator"],
+        answer: "A. Oil Filters"
     },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
-    {
-        question: "Which one does not belong to Brake Pads Combo?",
-        choices: ["A. Brake Grease", "B. Brake Caliper", "C. Brake Rotors", "D. Brake Caliper Tools"],
-        answer: "D. Brake Caliper Tools"
-    },
+    {   
+        // Question 10 //
+        question: "Which one does not belong to Batteries Combo?",
+        choices: ["A. Battery Installation Kit (BT-1K)", "B. Battery Greases (BTP-1)", "C. Battery Washer (BWB-1)", "D. DiElectric Grease (CP-1A)"],
+        answer: "D. DiElectric Grease (CP-1A)"
+    }   
 ];
 
 
