@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Solitreo&display=swap');
+/* font-family: 'Solitreo', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+
+:root {
+    /* color pallete */
+    --deepocean: #012e4a;
+    --ocean: #036280;
+    --waves: #378ba4;
+    --sky: #81bece;
+    --sand: #e8ede7;
+    /* fonts */
+    --cursive: 'Solitreo', cursive;
+    --printed: 'Roboto', sans-serif;
+}
+
+
+body {
+    background-color: var(--sand);
+}
+
+h1, 
+h2 {
+    color: var(--deepocean);
+    font-family: var(--cursive);
+}
+
+a {
+    color: var(--waves);
+    font-family: var(--printed);
+}
+
+a:hover {
+    color: var(--sky);
+    font-family: var(--printed);
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: var(--deepocean);
+}
+
+#finalScore {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Archivo', sans-serif;
+}
+
+p {
+    font-family: 'Archivo', sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #4D5159;
+}
