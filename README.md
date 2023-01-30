@@ -15,6 +15,8 @@ https://timothylai1121.github.io/Quiz-Fever-4/
 
 ## HTML  [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 
+One thing that helped me through this is BootStrap 4 & BootStrap Studio (It is on sale now y'all. Great tool!)
+
 ## CSS [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 
 I used to be in management and found a mentor[^1] that helped me bring out my creativity. My favorite language have to be CSS due to this person[^2].
