@@ -18,11 +18,19 @@ https://timothylai1121.github.io/Quiz-Fever-4/
 ## CSS [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 
 I used to be in management and found a mentor[^1] that helped me bring out my creativity. My favorite language have to be CSS due to this person[^2].
+
 ![carbon](./assets/imgs/carbon.png)
 
 My favorite part of any web development project is bring out different color and style. It is completely opposite from web design but I will be consistent on it
 
 ## Javascript  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+The 3 things I have used the most and slowly it make more sense is:
+* document.getElementById
+* document,getElementByClass
+* addEventListener
+
+Javascript used to intimidate and still does. I remember being on CodeCademy and struggle with it.
 
 # References  :bookmark_tabs:
 
