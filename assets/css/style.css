@@ -4,6 +4,7 @@
 /* font-family: 'Roboto', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
 /* font-family: 'Orbitron', sans-serif; */
+/* root */
 
 :root {
     /* color pallete */
@@ -18,19 +19,15 @@
     --lcd: 'Orbitron', sans-serif;
 }
 /* body */
-
 body {
     background-color: var(--sand);
 }
-
 /* Introduction */
-
 h1, 
 h2 {
     color: var(--deepocean);
     font-family: var(--cursive);
 }
-
 /* timer */
 #timer {
     font-size: 20px;
@@ -48,9 +45,7 @@ a:hover {
     color: var(--sky);
     font-family: var(--printed);
 }
-
 /* buttons */
-
 .btn:focus, .btn:active, .btn:visited {
     outline: none !important;
     box-shadow: none !important;

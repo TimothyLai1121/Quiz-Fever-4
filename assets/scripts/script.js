@@ -248,7 +248,7 @@ function showHighScores() {
 
     var savedHighScores = localStorage.getItem("high scores");
 
-    // check if there is any in local storage
+    // Local Storage, Checking HS //
     if (savedHighScores === null) {
         return;
     }
