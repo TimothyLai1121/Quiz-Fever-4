@@ -9,6 +9,7 @@ I know that most of my Central Grader are tired of grading every single portfoli
 https://timothylai1121.github.io/Quiz-Fever-4/
 
 # Snippet :clapper:
+![snippet](./assets/imgs/WittDtjr%20Challenges.gif)
 
 # Languages & FrameWork #
 
