@@ -17,7 +17,7 @@ https://timothylai1121.github.io/Quiz-Fever-4/
 
 ## CSS [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 I used to be in management and found a mentor[^1] that helped me bring out my creativity. My favorite language have to be CSS due to this person[^2].
-
+![carbon](./assets/imgs/carbon.png)
 
 ## Javascript  [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
